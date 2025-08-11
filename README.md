@@ -1,5 +1,5 @@
 # description 
-this a angular version of gallery.
+this is vue js version of gallery.
 #
 click the button to move forward and backward. 
 #
